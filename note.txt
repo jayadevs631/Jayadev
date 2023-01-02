@@ -1,0 +1,36 @@
+git and github
+--------------
+
+git
+---
+vcm-version control system
+scm-software configuration management
+
+git operations
+--------------
+push-local repository to remote repository-uploading new project and changes
+clone-remote repository to local repository-downloading exact copy of project
+pull-remote repository to local repository-downloading changes
+
+
+
+
+push
+----
+1.add
+2.commit
+3.push
+
+github commands
+---------------
+to initialize git - git init
+to add file - git add <filename>
+to add all files - git add .
+to check status - git status
+to commit - git commit -m "initial commit"
+to check if remote repository is connected or not - git remote -v
+to connect or add remote repository - git add var1 <link from github account>
+to push as master - git push -u var1 master
+
+to clone - git clone <link from code link on github>
+to pull - git pull <link from code link on github>
