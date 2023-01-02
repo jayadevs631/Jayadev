@@ -34,3 +34,12 @@ to push as master - git push -u var1 master
 
 to clone - git clone <link from code link on github>
 to pull - git pull <link from code link on github>
+ 
+to get token-
+profile-settings-left side-developer settings
+personal access token
+token(classic)
+generate new token
+generate new token (classic)
+fill note textbox , tick mark all options
+generate token
